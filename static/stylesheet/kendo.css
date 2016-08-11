@@ -1,0 +1,13 @@
+.k-grid {
+  flex-grow: 1 !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.k-grid-content {
+  height: 100% !important;
+}
+
+.k-pager-wrap {
+  min-height: 30px !important
+}
